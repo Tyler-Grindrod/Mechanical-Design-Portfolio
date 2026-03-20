@@ -12,7 +12,7 @@
 
 ### The Cardiovascular Center of Florida (Healthcare)
 * **Scope:** Medicial office building featuring MRI and X-ray suites
-* **Challenge:** Managed high heat dissipation requirements for step-up trnasforers and sensitive medical equipment
+* **Challenge:** Managed high heat dissipation requirements for step-up transformers and sensitive medical equipment
 * **Solutions:** Desigined dedicated HVAC zones and specified 4" PVC refrigerant sleeves in chases to allow for future split-DX exspansion and tenant buildouts.
 * **Result:** Achieved reduction in operating costs through zone isolation and precise thermal modeling.
 
