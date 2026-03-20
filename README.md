@@ -21,7 +21,7 @@
 * **Challenge:** Coordination of mechanical equipment with tight RCP constraints and and complex structural layouts
 * **Solution:** Utilized Revit for 3D coordination of duct routing and equipment placement to rpeserve the architectural vision.
 
-### Drake Water Treatment Plant (Industrial/Utility)
+### [Drake Water Treatment Plant (Industrial/Utility)](./Drake_Water_Treatment_Plant-(Industrial))
 * **Scope:** Specialized HVAC and ventilation for water treatment infrastructure.
 * **Challenge:** Significant concentrations of corrosive gases and fumes and large quantity of heat disspation from interior water pummps
 * **Solution:** Dual Wall mounted Air Condition units were scheduled and operation-offset temperature controls were scheduled to minimize HVAC wear. Coordinated with Civil engineers and vendors to remove interior chemical storage into corrosive resistant pre-fabricated fiberglass building. 
