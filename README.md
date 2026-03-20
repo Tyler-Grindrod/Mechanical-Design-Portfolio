@@ -32,4 +32,4 @@
 * **Solution:** System ramps from a baseline of 0.05 CFM/sq.ft to 0.75 CFM/sq.ft of exhaust upon detection of 25 PPM threshold. Ensuring life safety while optimizing energy consumption.
 
 ---
-*Disclaimer: These documents are for portfolio demsotration only and are not intended for construction.*
+*Disclaimer: These documents are for portfolio demonstration only and are not intended for construction.*
