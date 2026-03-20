@@ -10,7 +10,7 @@
 
 ## Feratured Projects
 
-### [The Cardiovascular Center of Florida (Healthcare](./CVCFL-Medical_Office)
+### [The Cardiovascular Center of Florida (Healthcare)](./CVCFL-Medical_Office)
 * **Scope:** Medicial office building featuring MRI and X-ray suites
 * **Challenge:** Managed high heat dissipation requirements for step-up transformers and sensitive medical equipment
 * **Solutions:** Desigined dedicated HVAC zones and specified 4" PVC refrigerant sleeves in chases to allow for future split-DX exspansion and tenant buildouts.
