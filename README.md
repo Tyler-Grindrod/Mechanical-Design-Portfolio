@@ -4,7 +4,7 @@
 ## Technical
 * **Design:** Autocad, Revit, SolidWorks
 * **Analysis:** HAP, TRACE, EnergyGauge/Summit, COMcheck
-* **Standards:** Internation building Codes, NGBS, LEED, Ashrae Fundementals, NFPA-90A, ASHRAE 62.1 & 90.1
+* **Standards:** Internation Building Codes, NGBS, LEED, Ashrae Fundementals, NFPA-90A, ASHRAE 62.1 & 90.1
  
 ---
 
