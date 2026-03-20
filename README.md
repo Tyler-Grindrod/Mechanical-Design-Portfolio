@@ -14,7 +14,7 @@
 * **Scope:** Medicial office building featuring MRI and X-ray suites
 * **Challenge:** Managing high heat dissipation from step‑up transformers and sensitive medical equipment
 * **Solutions:**  Designed dedicated HVAC zones and specified 4" PVC refrigerant sleeves in chases to support future split‑DX expansion and tenant buildouts
-* **Result:** Reduced operating costs through zone isolation and precise thermal modeling
+* **Result:** Reduced operating costs through zone isolation and accurate thermal modeling
 
 ### [Eagle Lake Apartments (Multi-Family)](./Eagle_Lake_Apartments-(Multi-Family))
 * **Scope:** Multi‑building residential complex with amenity clubhouse
