@@ -16,7 +16,7 @@
 * **Solutions:** Desigined dedicated HVAC zones and specified 4" PVC refrigerant sleeves in chases to allow for future split-DX exspansion and tenant buildouts.
 * **Result:** Achieved reduction in operating costs through zone isolation and precise thermal modeling.
 
-### Eagle Lake Apartments (Multi-Family)
+### [Eagle Lake Apartments (Multi-Family)](./Eagle_Lake_Apartments-(Multi-Family))
 * **Scope:** Multi-building complex and amenity clubhouse
 * **Challenge:** Coordination of mechanical equipment with tight RCP constraints and and complex structural layouts
 * **Solution:** Utilized Revit for 3D coordination of duct routing and equipment placement to rpeserve the architectural vision.
