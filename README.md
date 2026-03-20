@@ -26,7 +26,7 @@
 * **Challenge:** Significant concentrations of corrosive gases and fumes and large quantity of heat disspation from interior water pummps
 * **Solution:** Dual Wall mounted Air Condition units were scheduled and operation-offset temperature controls were scheduled to minimize HVAC wear. Coordinated with Civil engineers and vendors to remove interior chemical storage into corrosive resistant pre-fabricated fiberglass building. 
 
-### Pearl Apartments & Garage (Multi-Family)
+### [Pearl Apartments & Garage (Multi-Family)](/.Pearl_apartments_&_Garage-(Multi-Family))
 * **Scope:** High-rise residential with enclosed parking
 * **Challenge:** Tight RCP constraints and limited mechanical closets required the extensive use of VRF systems. The enclosed parking lot required sensor controlled garage exhaust system triggered by Carbon Monoxide (CO) and Nitrogen Oxide (NO2) detectors.
 * **Solution:** System ramps from a baseline of 0.05 CFM/sq.ft to 0.75 CFM/sq.ft of exhaust upon detection of 25 PPM threshold. Ensuring life safety while optimizing energy consumption.
