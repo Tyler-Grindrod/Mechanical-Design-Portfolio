@@ -29,4 +29,7 @@
 ### Pearl Multi-Family apartments & Garage (Multi-Family)
 * **Scope:** High-rise residential with enclosed parking
 * **Challenge:** Tight RCP constraints and limited mechanical closets required the extensive use of VRF systems. The enclosed parking lot required sensor controlled garage exhaust system triggered by Carbon Monoxide (CO) and Nitrogen Oxide (NO2) detectors.
-* **Solution:** System ramps from a baseline of 0.05 CFM/sq.ft to 0.75 CFM/sq.ft of exhaust upon detection of 25 PPM threshold. Ensuring life safety while optimizing energy consumption. 
+* **Solution:** System ramps from a baseline of 0.05 CFM/sq.ft to 0.75 CFM/sq.ft of exhaust upon detection of 25 PPM threshold. Ensuring life safety while optimizing energy consumption.
+
+---
+*Disclaimer: These documents are for portfolio demsotration only and are not intended for construction.*
