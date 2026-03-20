@@ -17,7 +17,7 @@
 * **Result:** Achieved reduction in operating costs through zone isolation and precise thermal modeling.
 
 ### Eagle Lake Apartments (Multi-Family)
-* **Scope:** Multi-building complex and amaneity clubhouse
+* **Scope:** Multi-building complex and amenity clubhouse
 * **Challenge:** Coordination of mechanical equipment with tight RCP constraints and and complex structural layouts
 * **Solution:** Utilized Revit for 3D coordination of duct routing and equipment placement to rpeserve the architectural vision.
 
