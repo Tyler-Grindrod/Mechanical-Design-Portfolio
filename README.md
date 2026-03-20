@@ -1,5 +1,5 @@
 # Tyler Grindrod | Mechanical MEP Designer
-**Mechanical Engineering @ UCF | 6+ Years Industry Experience**
+**Mechanical Engineering @ UCF | 5+ Years Industry Experience**
 
 ## Technical
 * **Design:** Autocad, Revit, SolidWorks
